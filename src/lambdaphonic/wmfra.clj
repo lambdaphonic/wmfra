@@ -1,4 +1,4 @@
-(ns wmfra.core)
+(ns lambdaponic.wmfra)
 
 (defn foo
   "I don't do a whole lot."
