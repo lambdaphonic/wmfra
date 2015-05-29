@@ -1,5 +1,5 @@
 (defproject lambdaphonic.wmfra "0.1.0-SNAPSHOT"
-  :description "Live coding @ WebMonta Frankfurt"
+  :description "Live coding @ WebMontag Frankfurt, on 2015/06/08"
   :url "http://github.com/lambdaphonic/wmfra"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
