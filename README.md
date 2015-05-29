@@ -1,6 +1,6 @@
 # wmfra
 Live set for my talk about live coding
-at Webmontag Frankfurt on 015-06-08
+at Webmontag Frankfurt on 2015/06/08
 
 ## License
 
